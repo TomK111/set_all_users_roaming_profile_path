@@ -3,7 +3,6 @@
 
 This PowerShell Script automates the task of setting the profile path for every user inside the Roaming Profiles Group. 
 
----
 
 ## How To Execute This Script
 
